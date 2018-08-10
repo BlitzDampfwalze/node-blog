@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Avenir Next', Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI',
+    Helvetica, Arial, sans-serif;
+  margin: 0;
+  background-color: #fbfbfb;
+  color: #2a2b30;
+}
+
+.header {
+  background-color: #1c1d23;
+  text-align: center;
+}
+
+.title {
+  margin: 0;
+  padding: 0.7em;
+  color: #5c5edc;
+}
+
+.container {
+  max-width: 80%;
+  margin: 2em auto;
+}
+
+.blog-posts {
+  padding: 1em 4em;
+}
+
+.blog-title {
+  margin-bottom: 2em;
+}
